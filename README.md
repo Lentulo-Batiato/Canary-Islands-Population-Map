@@ -5,8 +5,7 @@ A live, interactive choropleth map that visualizes the population density (hab/k
 
 This project was built from scratch to demonstrate end-to-end data analysis and visualization skills.
 
-**[ 🚀 LIVE DEMO ]**
-
+**[ 🚀 LIVE DEMO ](https://lentulo-batiato.github.io/Canary-Islands-Population-Map/mapa_densidad_canarias_2024.html)**
 
 ---
 
